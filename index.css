@@ -1,0 +1,10 @@
+p {
+    text-indent: 5px;
+    text-align: justify;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 80px;
+  }
+  .section{
+      text-align: center;
+      color: brown;
+  }
